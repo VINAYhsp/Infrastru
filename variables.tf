@@ -1,5 +1,5 @@
 variable "region" {
-  default = "us-east-2"
+  default = "us-east-1"
 }
 variable "AmiLinux" {
   type = "map"
@@ -13,12 +13,12 @@ variable "AmiLinux" {
 }
 /*
 variable "aws_access_key" {
-  default = "xxxxx"
+  default = "AKIAWY3YFOJ5RG6BTHVP"
   description = "the user aws access key"
 }
 
 variable "aws_secret_key" {
-  default = "xxxx"
+  default = "GhJdxaZ+Qk3levL11joRy1Azvqw9zJTYt9Rd3hzh"
   description = "the user aws secret key"
 }
 */
