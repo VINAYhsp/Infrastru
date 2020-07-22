@@ -13,12 +13,12 @@ variable "AmiLinux" {
 }
 /*
 variable "aws_access_key" {
-  default = "AKIAWY3YFOJ5RG6BTHVP"
+  default = ""
   description = "the user aws access key"
 }
 
 variable "aws_secret_key" {
-  default = "GhJdxaZ+Qk3levL11joRy1Azvqw9zJTYt9Rd3hzh"
+  default = ""
   description = "the user aws secret key"
 }
 */
