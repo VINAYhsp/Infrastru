@@ -24,7 +24,7 @@ variable "aws_secret_key" {
 */
 variable "credentialsfile" {
   default = "/Users/giuseppe/.aws/credentials" #replace your home directory
-  description = "where your access and secret_key are stored, you create the file when you run the aws config"
+  description = "where your access and secret_key are stored, you create the file when you run the aws confige"
 }
 
 variable "vpc-fullcidr" {
